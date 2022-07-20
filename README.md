@@ -19,3 +19,7 @@ Explain the viewers how to set up this project
 ### License
 Tell the viewers which license you are using
 
+## Delete this when changing the README
+Useful links:
+https://github.com/emn178/markdown
+https://github.com/Jasonnor/README.md
