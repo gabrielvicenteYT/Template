@@ -2,12 +2,12 @@
 Project
 
 ### What makes Project different?
-Explain what makes this project different from any other simillar project
+Explain what makes this project different from any other similar project
 
 ### Features
 Tell the viewers about the features of this project
 
-## Installation
+### Installation
 Briefly explain the viewers how to install / use this project
 
 ### Downloading
